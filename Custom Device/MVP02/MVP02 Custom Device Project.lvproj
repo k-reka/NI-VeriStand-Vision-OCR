@@ -107,7 +107,7 @@
 			<Item Name="NationalInstruments.VeriStand.SystemStorage" Type="Document" URL="NationalInstruments.VeriStand.SystemStorage">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../../../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/NI_FileType.lvlib"/>
+			<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/NI_FileType.lvlib"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

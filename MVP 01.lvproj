@@ -504,8 +504,8 @@
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="MVP02 Custom Device.lvlib" Type="Library" URL="../Custom Device/MVP02/MVP02 Custom Device.lvlib"/>
-			<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/NI_FileType.lvlib"/>
-			<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="../../../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/NI_PackedLibraryUtility.lvlib"/>
+			<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/NI_FileType.lvlib"/>
+			<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/NI_PackedLibraryUtility.lvlib"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -519,7 +519,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Teste Case Selector 01.ctl" Type="VI" URL="../Controls/Teste Case Selector 01.ctl"/>
-			<Item Name="VariantType.lvlib" Type="Library" URL="../../../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/VariantType.lvlib"/>
+			<Item Name="VariantType.lvlib" Type="Library" URL="../../../../Public/Documents/National Instruments/NI VeriStand 2016/Custom Devices/Engine Simulation Toolkit/Engine Simulation Toolkit Configuration.llb/VariantType.lvlib"/>
 			<Item Name="Vision Case.ctl" Type="VI" URL="../Custom Device/MVP02/Vision Case.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
