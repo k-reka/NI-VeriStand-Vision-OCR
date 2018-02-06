@@ -10,4 +10,6 @@
 	<Item Name="MVP02 RT Driver VI.vi" Type="VI" URL="../MVP02 RT Driver VI.vi"/>
 	<Item Name="Test Case.vi" Type="VI" URL="../Test Case.vi"/>
 	<Item Name="Vision Analisis.vi" Type="VI" URL="../Vision Analisis.vi"/>
+	<Item Name="Waveform Acquiring.vi" Type="VI" URL="../../../../../Desktop/Treinamentos/Projeto 01/LabVIEW Codes/Custom Device/MVP02/Waveform Acquiring.vi"/>
+	<Item Name="Waveform Mask Analysis.vi" Type="VI" URL="../../../../../Desktop/Treinamentos/Projeto 01/LabVIEW Codes/Custom Device/MVP02/Waveform Mask Analysis.vi"/>
 </Library>
